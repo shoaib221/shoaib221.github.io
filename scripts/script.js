@@ -14,7 +14,7 @@ $(document).ready(function() {
 });
 
 var typed = new Typed("#typing", {
-    strings: [ "software engineering enthusiast", "competitive programmer"],
+    strings: [ "software engineering enthusiast" ],
     typeSpeed: 100,
     backSpeed: 60,
     smartBackspace: true,
@@ -22,7 +22,7 @@ var typed = new Typed("#typing", {
 });
     
 var typed2 = new Typed("#typing-2", {
-    strings: [ "software engineering undergraduate", "competitive programmer"],
+    strings: [ "software engineering enthusiast" ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
