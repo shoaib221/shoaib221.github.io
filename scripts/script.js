@@ -14,7 +14,7 @@ $(document).ready(function() {
 });
 
 var typed = new Typed("#typing", {
-    strings: [ "software engineering undergraduate", "competitive programmer"],
+    strings: [ "software engineering enthusiast", "competitive programmer"],
     typeSpeed: 100,
     backSpeed: 60,
     smartBackspace: true,
